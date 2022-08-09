@@ -1,1 +1,1 @@
-"#A collection of recipies (Pluralsight Demo on Github)" 
+# A collection of recipies (Pluralsight Demo on Github)
